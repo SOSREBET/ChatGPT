@@ -1,7 +1,6 @@
 # Introduction
 
-The purpose of this repository is an easy way to interact with ChatGPT in python.
-
+The purpose of this repository is an easy way to interact with ChatGPT (with a dialog context) in python.
 
 # Usage
 
